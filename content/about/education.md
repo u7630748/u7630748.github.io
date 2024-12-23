@@ -25,23 +25,30 @@ experience:
   - title: Master of Computing
     company: The Australian National University
     company_url: ''
-    company_logo: org-x
+    company_logo: anu
     location: Canberra, Australia
     date_start: '2023-02-19'
     date_end: '2024-12-06'
     description: |2-
-        * Dissertation on Y
-        * Basketball team
-        * DJ club
+        * Grade: Distinction
+        * Software Engineering (Agile, DevOps, Microservices, Open Source)
+        * Web Development (Responsive Website using HTML, CSS, JS)
+        * Software Development (Java, Android Studio)
+        * Data Analysis (SQL, R, Python)
+        * Human Computer Interaction (User Research, UI/UX Design, Figma, NVivo)
+        * Computer Networks (Socket API, Wireshark)
 
-  - title: BEng Electronic Engineering
-    company: University X
+  - title: Bachelor of Business Administration with Honours
+    company: The Chinese University of Hong Kong
     company_url: ''
-    company_logo: org-x
-    location: California
-    date_start: '2016-01-01'
-    date_end: '2020-12-31'
-    description: My dissertation was on X
+    company_logo: cuhk
+    location: Hong Kong
+    date_start: '2018-09-01'
+    date_end: '2022-07-31'
+    description: |2-
+        * Grade: Second Class Upper Division
+        * Resident's Student Association of Adam Schall Residence
+        * Scholarship: Li Dak Sum Yip Yio Chin Kenneth Li Scholarship
 
 design:
   columns: '1'
