@@ -28,12 +28,12 @@ content:
   filter_button:
     - name: All
       tag: '*'
-    - name: Machine Learning
-      tag: ML
+    - name: Software
+      tag: SD
     - name: Frontend
       tag: FE
-    - name: NLP
-      tag: NLP
+    - name: Others
+      tag: OS
 
 design:
   columns: '1'
