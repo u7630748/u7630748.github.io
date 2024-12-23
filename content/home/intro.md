@@ -19,6 +19,6 @@ author: admin
 ---
 
 👋 Hi, there! I'm **Alice**, a master of computing graduate passionate about technology and innovation.
-{style="font-size: 1.2rem; background: #FFB76B; background: linear-gradient(to right, #FFB76B 0%, #FFA73D 30%, #FF7C00 60%, #FF7F04 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
+{style="font-size: 1.2rem; background: #A8E6CF; background: linear-gradient(to right, #A8E6CF 0%, #D4E157 50%, #4CAF50 100%); -webkit-background-clip: text; -webkit-text-fill-color: transparent;"}
 
 Check out my [resumé](/about/) and portfolio below 😍

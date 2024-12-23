@@ -1,8 +1,8 @@
 ---
-title: Cartoon Face Generator
-summary: Write about your project here...
+title: Weather App
+summary: Frontend Mini Project
 tags:
-  - CV
-date: 2022-01-01
-external_link: http://github.com
+  - FE
+date: 2024-12-23
+external_link: https://u7630748.github.io/WEATHER-APP/
 ---
