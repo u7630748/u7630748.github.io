@@ -22,13 +22,13 @@ date_format: Jan 2006
 #   Leave `date_end` empty if it's your current employer.
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 experience:
-  - title: MEng Electronic Engineering
-    company: University X
+  - title: Master of Computing
+    company: The Australian National University
     company_url: ''
     company_logo: org-x
-    location: California
-    date_start: '2021-01-01'
-    date_end: '2022-01-01'
+    location: Canberra, Australia
+    date_start: '2023-02-19'
+    date_end: '2024-12-06'
     description: |2-
         * Dissertation on Y
         * Basketball team

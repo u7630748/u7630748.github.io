@@ -1,6 +1,6 @@
 ---
 # Display name
-title: Alice Wu (吳恩達)
+title: Alice Kwong
 
 # Is this the primary user of the site?
 superuser: true
@@ -18,7 +18,7 @@ status:
 #  url: ""
 
 # Short bio (displayed in user profile at end of posts)
-bio: My research interests include distributed robotics, mobile computing and programmable matter.
+bio: I blend technical expertise and creative problem-solving to deliver impactful solutions.
 
 #interests:
 #- Artificial Intelligence
@@ -44,30 +44,26 @@ bio: My research interests include distributed robotics, mobile computing and pr
 social:
   - icon: envelope
     icon_pack: fas
-    link: 'about/#contact' # For a direct email link, use "mailto:test@example.org".
-  - icon: twitter
+    link: 'mailto:alicekwong1129@gmail.com' # For a direct email link, use "mailto:test@example.org".
+  - icon: github
     icon_pack: fab
-    link: https://twitter.com/wowchemy
-  - icon: instagram
+    link: https://github.com/u7630748
+  - icon: linkedin
     icon_pack: fab
-    link: https://instagram.com/geocushen
-# Uncomment below for Github link
-#- icon: github
-#  icon_pack: fab
-#  link: https://github.com/gcushen
+    link: https://www.linkedin.com/in/alicekyting/
 
 # Link to a PDF of your resume/CV from the About widget.
 # To enable, copy your resume/CV to `static/files/cv.pdf` and uncomment the lines below.
-# - icon: cv
-#   icon_pack: ai
-#   link: files/cv.pdf
+   - icon: cv
+     icon_pack: ai
+     link: files/cv.pdf
 
 # Enter email to display Gravatar (if Gravatar enabled in Config)
 #email: ""
 ---
 
-Alice Wu is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
+Alice Kwong is a Master of Computing graduate from The Australian National University with experience in building AI prototypes, developing data visualization tools, and driving digital transformation projects. At Google, she created innovative demos using Vertex AI and open-source tools, showcasing solutions tailored to customer needs. 
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+With expertise in cloud platforms, programming, and data analytics, she excels in translating complex technical concepts into actionable strategies. Her background in business and computing uniquely positions her to bridge the gap between technical teams and stakeholders.
 
-{{< icon name="download" pack="fas" >}} {{< staticref "uploads/resume.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
+{{< icon name="download" pack="fas" >}} {{< staticref "uploads/cv.pdf" "newtab" >}}Download{{< /staticref >}} my resumé as a PDF.
